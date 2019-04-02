@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<config key="column-filter">
+<entry key="filter-type" type="xstring" value="STANDARD"/>
+<config key="included_names">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xstring" value="Employment"/>
+<entry key="1" type="xstring" value="FormalEducation"/>
+<entry key="2" type="xstring" value="CompanySize"/>
+<entry key="3" type="xstring" value="DevType"/>
+<entry key="4" type="xstring" value="YearsCoding"/>
+<entry key="5" type="xstring" value="ConvertedSalary"/>
+</config>
+<config key="excluded_names">
+<entry key="array-size" type="xint" value="123"/>
+<entry key="0" type="xstring" value="Respondent"/>
+<entry key="1" type="xstring" value="Hobby"/>
+<entry key="2" type="xstring" value="OpenSource"/>
+<entry key="3" type="xstring" value="Country"/>
+<entry key="4" type="xstring" value="Student"/>
+<entry key="5" type="xstring" value="UndergradMajor"/>
+<entry key="6" type="xstring" value="YearsCodingProf"/>
+<entry key="7" type="xstring" value="JobSatisfaction"/>
+<entry key="8" type="xstring" value="CareerSatisfaction"/>
+<entry key="9" type="xstring" value="HopeFiveYears"/>
+<entry key="10" type="xstring" value="JobSearchStatus"/>
+<entry key="11" type="xstring" value="LastNewJob"/>
+<entry key="12" type="xstring" value="AssessJob1"/>
+<entry key="13" type="xstring" value="AssessJob2"/>
+<entry key="14" type="xstring" value="AssessJob3"/>
+<entry key="15" type="xstring" value="AssessJob4"/>
+<entry key="16" type="xstring" value="AssessJob5"/>
+<entry key="17" type="xstring" value="AssessJob6"/>
+<entry key="18" type="xstring" value="AssessJob7"/>
+<entry key="19" type="xstring" value="AssessJob8"/>
+<entry key="20" type="xstring" value="AssessJob9"/>
+<entry key="21" type="xstring" value="AssessJob10"/>
+<entry key="22" type="xstring" value="AssessBenefits1"/>
+<entry key="23" type="xstring" value="AssessBenefits2"/>
+<entry key="24" type="xstring" value="AssessBenefits3"/>
+<entry key="25" type="xstring" value="AssessBenefits4"/>
+<entry key="26" type="xstring" value="AssessBenefits5"/>
+<entry key="27" type="xstring" value="AssessBenefits6"/>
+<entry key="28" type="xstring" value="AssessBenefits7"/>
+<entry key="29" type="xstring" value="AssessBenefits8"/>
+<entry key="30" type="xstring" value="AssessBenefits9"/>
+<entry key="31" type="xstring" value="AssessBenefits10"/>
+<entry key="32" type="xstring" value="AssessBenefits11"/>
+<entry key="33" type="xstring" value="JobContactPriorities1"/>
+<entry key="34" type="xstring" value="JobContactPriorities2"/>
+<entry key="35" type="xstring" value="JobContactPriorities3"/>
+<entry key="36" type="xstring" value="JobContactPriorities4"/>
+<entry key="37" type="xstring" value="JobContactPriorities5"/>
+<entry key="38" type="xstring" value="JobEmailPriorities1"/>
+<entry key="39" type="xstring" value="JobEmailPriorities2"/>
+<entry key="40" type="xstring" value="JobEmailPriorities3"/>
+<entry key="41" type="xstring" value="JobEmailPriorities4"/>
+<entry key="42" type="xstring" value="JobEmailPriorities5"/>
+<entry key="43" type="xstring" value="JobEmailPriorities6"/>
+<entry key="44" type="xstring" value="JobEmailPriorities7"/>
+<entry key="45" type="xstring" value="UpdateCV"/>
+<entry key="46" type="xstring" value="Currency"/>
+<entry key="47" type="xstring" value="Salary"/>
+<entry key="48" type="xstring" value="SalaryType"/>
+<entry key="49" type="xstring" value="CurrencySymbol"/>
+<entry key="50" type="xstring" value="CommunicationTools"/>
+<entry key="51" type="xstring" value="TimeFullyProductive"/>
+<entry key="52" type="xstring" value="EducationTypes"/>
+<entry key="53" type="xstring" value="SelfTaughtTypes"/>
+<entry key="54" type="xstring" value="TimeAfterBootcamp"/>
+<entry key="55" type="xstring" value="HackathonReasons"/>
+<entry key="56" type="xstring" value="AgreeDisagree1"/>
+<entry key="57" type="xstring" value="AgreeDisagree2"/>
+<entry key="58" type="xstring" value="AgreeDisagree3"/>
+<entry key="59" type="xstring" value="LanguageWorkedWith"/>
+<entry key="60" type="xstring" value="LanguageDesireNextYear"/>
+<entry key="61" type="xstring" value="DatabaseWorkedWith"/>
+<entry key="62" type="xstring" value="DatabaseDesireNextYear"/>
+<entry key="63" type="xstring" value="PlatformWorkedWith"/>
+<entry key="64" type="xstring" value="PlatformDesireNextYear"/>
+<entry key="65" type="xstring" value="FrameworkWorkedWith"/>
+<entry key="66" type="xstring" value="FrameworkDesireNextYear"/>
+<entry key="67" type="xstring" value="IDE"/>
+<entry key="68" type="xstring" value="OperatingSystem"/>
+<entry key="69" type="xstring" value="NumberMonitors"/>
+<entry key="70" type="xstring" value="Methodology"/>
+<entry key="71" type="xstring" value="VersionControl"/>
+<entry key="72" type="xstring" value="CheckInCode"/>
+<entry key="73" type="xstring" value="AdBlocker"/>
+<entry key="74" type="xstring" value="AdBlockerDisable"/>
+<entry key="75" type="xstring" value="AdBlockerReasons"/>
+<entry key="76" type="xstring" value="AdsAgreeDisagree1"/>
+<entry key="77" type="xstring" value="AdsAgreeDisagree2"/>
+<entry key="78" type="xstring" value="AdsAgreeDisagree3"/>
+<entry key="79" type="xstring" value="AdsActions"/>
+<entry key="80" type="xstring" value="AdsPriorities1"/>
+<entry key="81" type="xstring" value="AdsPriorities2"/>
+<entry key="82" type="xstring" value="AdsPriorities3"/>
+<entry key="83" type="xstring" value="AdsPriorities4"/>
+<entry key="84" type="xstring" value="AdsPriorities5"/>
+<entry key="85" type="xstring" value="AdsPriorities6"/>
+<entry key="86" type="xstring" value="AdsPriorities7"/>
+<entry key="87" type="xstring" value="AIDangerous"/>
+<entry key="88" type="xstring" value="AIInteresting"/>
+<entry key="89" type="xstring" value="AIResponsible"/>
+<entry key="90" type="xstring" value="AIFuture"/>
+<entry key="91" type="xstring" value="EthicsChoice"/>
+<entry key="92" type="xstring" value="EthicsReport"/>
+<entry key="93" type="xstring" value="EthicsResponsible"/>
+<entry key="94" type="xstring" value="EthicalImplications"/>
+<entry key="95" type="xstring" value="StackOverflowRecommend"/>
+<entry key="96" type="xstring" value="StackOverflowVisit"/>
+<entry key="97" type="xstring" value="StackOverflowHasAccount"/>
+<entry key="98" type="xstring" value="StackOverflowParticipate"/>
+<entry key="99" type="xstring" value="StackOverflowJobs"/>
+<entry key="100" type="xstring" value="StackOverflowDevStory"/>
+<entry key="101" type="xstring" value="StackOverflowJobsRecommend"/>
+<entry key="102" type="xstring" value="StackOverflowConsiderMember"/>
+<entry key="103" type="xstring" value="HypotheticalTools1"/>
+<entry key="104" type="xstring" value="HypotheticalTools2"/>
+<entry key="105" type="xstring" value="HypotheticalTools3"/>
+<entry key="106" type="xstring" value="HypotheticalTools4"/>
+<entry key="107" type="xstring" value="HypotheticalTools5"/>
+<entry key="108" type="xstring" value="WakeTime"/>
+<entry key="109" type="xstring" value="HoursComputer"/>
+<entry key="110" type="xstring" value="HoursOutside"/>
+<entry key="111" type="xstring" value="SkipMeals"/>
+<entry key="112" type="xstring" value="ErgonomicDevices"/>
+<entry key="113" type="xstring" value="Exercise"/>
+<entry key="114" type="xstring" value="Gender"/>
+<entry key="115" type="xstring" value="SexualOrientation"/>
+<entry key="116" type="xstring" value="EducationParents"/>
+<entry key="117" type="xstring" value="RaceEthnicity"/>
+<entry key="118" type="xstring" value="Age"/>
+<entry key="119" type="xstring" value="Dependents"/>
+<entry key="120" type="xstring" value="MilitaryUS"/>
+<entry key="121" type="xstring" value="SurveyTooLong"/>
+<entry key="122" type="xstring" value="SurveyEasy"/>
+</config>
+<entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
+<config key="name_pattern">
+<entry key="pattern" type="xstring" value=""/>
+<entry key="type" type="xstring" value="Wildcard"/>
+<entry key="caseSensitive" type="xboolean" value="true"/>
+</config>
+<config key="datatype">
+<config key="typelist">
+<entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.StringValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.DoubleValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.BooleanValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.LongValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.date.DateAndTimeValue" type="xboolean" value="false"/>
+</config>
+</config>
+</config>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="factory" type="xstring" value="org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory"/>
+<entry key="node-name" type="xstring" value="Column Filter"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+<entry key="node-bundle-version" type="xstring" value="3.7.1.v201901291053"/>
+<entry key="node-feature-name" type="xstring" value="KNIME Core"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+<entry key="node-feature-version" type="xstring" value="3.7.1.v201901291053"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="Column Filter"/>
+<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 98855, Cols: 6"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="b522592b-8e49-49e8-9cee-31a9dcecaa55"/>
+</config>
+</config>
