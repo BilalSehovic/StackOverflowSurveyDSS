@@ -10,7 +10,7 @@
 <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
-<entry key="generateImagemodel" type="xboolean" value="false"/>
+<entry key="generateImagemodel" type="xboolean" value="true"/>
 <config key="cat_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -178,7 +178,7 @@
 <entry key="displayClearSelectionButton" type="xboolean" value="true"/>
 <entry key="hideInWizard" type="xboolean" value="false"/>
 <entry key="maxRows" type="xint" value="2500"/>
-<entry key="generateImage" type="xboolean" value="false"/>
+<entry key="generateImage" type="xboolean" value="true"/>
 <entry key="customCSS" type="xstring" value=""/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
@@ -202,9 +202,9 @@
 <config key="ports">
 <config key="port_1">
 <entry key="index" type="xint" value="1"/>
-<entry key="port_spec_class" type="xstring" value="org.knime.core.node.port.inactive.InactiveBranchPortObjectSpec"/>
-<entry key="port_object_class" type="xstring" value="org.knime.core.node.port.inactive.InactiveBranchPortObject"/>
-<entry key="port_object_summary" type="xstring" value="Inactive Port Object"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.node.port.image.ImagePortObjectSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.port.image.ImagePortObject"/>
+<entry key="port_object_summary" type="xstring" value="SVG 553 x 353"/>
 <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
 <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
@@ -212,6 +212,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="a69af928-75a7-48ba-90e7-5bc82415bded"/>
+<entry key="file_store_id" type="xstring" value="56fa3a59-b0f8-48c7-a6d9-75477143e042"/>
 </config>
 </config>
